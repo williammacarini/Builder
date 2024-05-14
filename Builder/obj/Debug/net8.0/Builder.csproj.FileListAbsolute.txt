@@ -1,0 +1,14 @@
+C:\repo\GitHub\Patterns\Builder\Builder\Builder\bin\Debug\net8.0\Builder.exe
+C:\repo\GitHub\Patterns\Builder\Builder\Builder\bin\Debug\net8.0\Builder.deps.json
+C:\repo\GitHub\Patterns\Builder\Builder\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+C:\repo\GitHub\Patterns\Builder\Builder\Builder\bin\Debug\net8.0\Builder.dll
+C:\repo\GitHub\Patterns\Builder\Builder\Builder\bin\Debug\net8.0\Builder.pdb
+C:\repo\GitHub\Patterns\Builder\Builder\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\GitHub\Patterns\Builder\Builder\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+C:\repo\GitHub\Patterns\Builder\Builder\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+C:\repo\GitHub\Patterns\Builder\Builder\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+C:\repo\GitHub\Patterns\Builder\Builder\Builder\obj\Debug\net8.0\Builder.dll
+C:\repo\GitHub\Patterns\Builder\Builder\Builder\obj\Debug\net8.0\refint\Builder.dll
+C:\repo\GitHub\Patterns\Builder\Builder\Builder\obj\Debug\net8.0\Builder.pdb
+C:\repo\GitHub\Patterns\Builder\Builder\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+C:\repo\GitHub\Patterns\Builder\Builder\Builder\obj\Debug\net8.0\ref\Builder.dll
