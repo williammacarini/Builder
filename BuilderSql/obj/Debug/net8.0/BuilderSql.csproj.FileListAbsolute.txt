@@ -19,3 +19,4 @@ C:\repo\GitHub\Patterns\Builder\Builder\BuilderSql\bin\Debug\net8.0\Builder.dll
 C:\repo\GitHub\Patterns\Builder\Builder\BuilderSql\bin\Debug\net8.0\Builder.pdb
 C:\repo\GitHub\Patterns\Builder\Builder\BuilderSql\obj\Debug\net8.0\BuilderSql.csproj.AssemblyReference.cache
 C:\repo\GitHub\Patterns\Builder\Builder\BuilderSql\obj\Debug\net8.0\BuilderSql.csproj.Up2Date
+C:\repo\GitHub\Patterns\Builder\Builder\BuilderSql\obj\Debug\net8.0\BuilderSql.sourcelink.json

@@ -12,3 +12,4 @@ C:\repo\GitHub\Patterns\Builder\Builder\Builder\obj\Debug\net8.0\refint\Builder.
 C:\repo\GitHub\Patterns\Builder\Builder\Builder\obj\Debug\net8.0\Builder.pdb
 C:\repo\GitHub\Patterns\Builder\Builder\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
 C:\repo\GitHub\Patterns\Builder\Builder\Builder\obj\Debug\net8.0\ref\Builder.dll
+C:\repo\GitHub\Patterns\Builder\Builder\Builder\obj\Debug\net8.0\Builder.sourcelink.json
